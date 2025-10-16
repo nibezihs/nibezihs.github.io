@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on nibezihs的博客</title>
-    <link>https://shizebin.github.io/posts/</link>
+    <link>https://nibezihs.github.io/posts/</link>
     <description>Recent content in Posts on nibezihs的博客</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Oct 2025 13:25:23 +0800</lastBuildDate>
-    <atom:link href="https://shizebin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nibezihs.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://shizebin.github.io/posts/test/</link>
+      <link>https://nibezihs.github.io/posts/test/</link>
       <pubDate>Thu, 16 Oct 2025 13:25:23 +0800</pubDate>
-      <guid>https://shizebin.github.io/posts/test/</guid>
+      <guid>https://nibezihs.github.io/posts/test/</guid>
       <description>&lt;p&gt;这是一篇测试博客&lt;/p&gt;</description>
     </item>
   </channel>
